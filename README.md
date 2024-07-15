@@ -8,11 +8,11 @@ you can easy to access
  so not to worry about any lab
  <h1 align="center">Hi, i'm Aditya Parmar</h2>
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/AdityaParmar-23/LABS.git">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=argvsc47&theme=radical&show_icons=true" />
 </a>
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/AdityaParmar-23/LABS.git">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?theme=radical&username=argvsc47&langs_count=3" />
 </a>
 
@@ -26,7 +26,7 @@ you can easy to access
 <br />
 <br />
 
-<a href="https://twitter.com/ryanlanciaux/status/1283755637126705152">
+<a href="https://github.com/AdityaParmar-23/LABS.git">
   <p>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<img align="center" src="https://profile-counter.glitch.me/argvsc47/count.svg" /></p>
 </a>
 
