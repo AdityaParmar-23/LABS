@@ -9,8 +9,7 @@ you can easy to access
 |    |          |                                                        |
 | 	1| Computer Network	| 	[Click Here.](https://github.com/AdityaParmar-23/LABS/blob/427833cd11361fe9e9613bc2c8a4c837d859d5f2/CN%20file/Computer%20Network%20Aditya%20Singh%20Parmar.pdf)|                                                           |
 |    |          |                                                        |
-| 	2| 	Compiler Design	| 	[Click Here.](https://github.com/AdityaParmar-23/LABS/blob/ff59a4103973a93a16716e2aef28161feff9f491/CD%20File/CDLAB%20MANUAL%202024-25new%20formatAditya%20Singh%20Parmar.pdf
-) | 
+| 	2| 	Compiler Design	| 	[Click Here.](https://github.com/AdityaParmar-23/LABS/blob/ff59a4103973a93a16716e2aef28161feff9f491/CD%20File/CDLAB%20MANUAL%202024-25new%20formatAditya%20Singh%20Parmar.pdf) | 
 |    |          |                                                        |
 | 	3| 	PPS | 	[Click Here.]()| 
 
