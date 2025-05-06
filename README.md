@@ -7,11 +7,11 @@ you can easy to access
 |   S.No  | 	Subjects   | 	Links	 | 
 | 	:-----:	 | 	:-----:	 | 	:-----:	 | 
 |    |          |                                                        |
-| 	1| DAA-Lab	| 	[Click Here.]()|                                                           |
+| 	1| Computer Network	| 	[Click Here.]()|                                                           |
 |    |          |                                                        |
-| 	2| 	DSA-LAB	| 	[Click Here.]() | 
+| 	2| 	Compiler Design	| 	[Click Here.]() | 
 |    |          |                                                        |
-| 	3| 	OOPS-LAB | 	[Click Here.]()| 
+| 	3| 	PPS | 	[Click Here.]()| 
 
  <h1 align="center">Hi, i'm Aditya Parmar</h2>
 
