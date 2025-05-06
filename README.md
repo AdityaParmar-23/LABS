@@ -4,8 +4,15 @@
 NAME ->Aditya Parmar 
 college lab programs here
 you can easy to access
- so there are  a trial fo your work 
- so not to worry about any lab
+|   S.No  | 	Subjects   | 	Links	 | 
+| 	:-----:	 | 	:-----:	 | 	:-----:	 | 
+|    |          |                                                        |
+| 	1| DAA-Lab	| 	[Click Here.]()|                                                           |
+|    |          |                                                        |
+| 	2| 	DSA-LAB	| 	[Click Here.]() | 
+|    |          |                                                        |
+| 	3| 	OOPS-LAB | 	[Click Here.]()| 
+
  <h1 align="center">Hi, i'm Aditya Parmar</h2>
 
 <a href="https://github.com/AdityaParmar-23/LABS.git">
